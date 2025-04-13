@@ -41,8 +41,8 @@ Each widget is presented inside a card with a live preview, a brief description,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/flutter-widget-showcase.git
-   cd flutter-widget-showcase
+   git clone https://github.com/mihajloslav/FlutterWidgetsGallery.git
+   cd flutter_widgets_gallery
    ```
 
 2. **Install Dependencies**:
@@ -109,7 +109,7 @@ Contributions are welcome! 🌟 To contribute:
 
 Found a bug or have an idea for a new feature? 💡
 
-Head over to the [Issues](https://github.com/your-username/flutter-widget-showcase/issues) page and let us know!
+Head over to the [Issues](https://github.com/mihajloslav/FlutterWidgetsGallery/issues) page and let us know!
 
 ---
 
@@ -121,5 +121,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📧 Contact
 
-For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/flutter-widget-showcase/issues) or email: `your-email@example.com`
+For questions or feedback, reach out via [GitHub Issues](https://github.com/mihajloslav/FlutterWidgetsGallery/issues) or email: `onlymihajlo@gmail.com`
 
