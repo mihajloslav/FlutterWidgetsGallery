@@ -20,8 +20,8 @@ Each widget is presented inside a card with a live preview, a brief description,
 - 🗂 **Tabbed Interface**: Easily switch between Material and Cupertino widgets.
 - ✨ **Interactive Examples**: Widgets respond to interaction (e.g., buttons show SnackBars, sliders update in real-time).
 - 🌈 **Custom Styling**:
-    - Cupertino widgets use `CupertinoColors.activeBlue` for a consistent iOS look.
-    - Material indicators animate with smooth transitions.
+  - Cupertino widgets use `CupertinoColors.activeBlue` for a consistent iOS look.
+  - Material indicators animate with smooth transitions.
 - 🌐 **Responsive Design**: Scrollable layout with clear category headers.
 - ❌ **No Localization**: All text is in English to maintain simplicity.
 - 🗺️ **Enhanced Navigation**: Includes drawers, navigation bars, and navigation rails with feedback.
@@ -40,26 +40,30 @@ Each widget is presented inside a card with a live preview, a brief description,
 ## ⚡ Setup Instructions
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/mihajloslav/FlutterWidgetsGallery.git
    cd flutter_widgets_gallery
    ```
 
 2. **Install Dependencies**:
+
    ```bash
    flutter pub get
    ```
 
 3. **Run the App**:
+
    ```bash
    flutter run
    ```
+
    > Make sure an emulator or physical device is connected.
 
 4. **Explore the App**:
-    - Navigate between Material and Cupertino tabs.
-    - Interact with widgets to see SnackBar messages and UI updates.
-    - Browse through categories like Buttons, Navigation, and Dialogs.
+   - Navigate between Material and Cupertino tabs.
+   - Interact with widgets to see SnackBar messages and UI updates.
+   - Browse through categories like Buttons, Navigation, and Dialogs.
 
 ---
 
@@ -72,12 +76,12 @@ Each widget is presented inside a card with a live preview, a brief description,
 
 ---
 
-## 📸 Screenshots *(optional)*
+## 📸 Screenshots
 
 Add screenshots here if you upload images:
 
-- **Material Tab**: [Insert Image]
-- **Cupertino Tab**: [Insert Image]
+- **Material Tab**: coming soon...
+- **Cupertino Tab**: coming soon...
 
 ---
 
@@ -122,4 +126,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📧 Contact
 
 For questions or feedback, reach out via [GitHub Issues](https://github.com/mihajloslav/FlutterWidgetsGallery/issues) or email: `onlymihajlo@gmail.com`
-
